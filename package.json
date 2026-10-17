@@ -3,6 +3,7 @@
   "displayName": "Themo",
   "description": "Themo",
   "version": "0.0.1",
+  "publisher": "holyarsenic",
   "engines": {
     "vscode": "^1.140.0"
   },
