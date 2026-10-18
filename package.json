@@ -1,21 +1,58 @@
 {
   "name": "Themo",
   "displayName": "Themo",
-  "description": "Themo",
+  "description": "A collection of carefully crafted dark themes for VS Code.",
   "version": "0.0.1",
   "publisher": "holyarsenic",
   "engines": {
-    "vscode": "^1.140.0"
+    "vscode": "^1.100.0"
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holyarsenic/Themo.git"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "vscode theme",
+    "github theme",
+    "developer theme"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Themo",
+        "label": "Themo - Moon Wrap",
         "uiTheme": "vs-dark",
-        "path": "./themes/Themo-color-theme.json"
+        "path": "./themes/MoonWrap.json"
+      },
+      {
+        "label": "Themo - Soft Hub",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SoftHub.json"
+      },
+      {
+        "label": "Themo - Chernobyl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Chernobyl.json"
+      },
+      {
+        "label": "Themo - Moth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moth.json"
+      },
+      {
+        "label": "Themo - Matrix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Matrix.json"
+      },
+      {
+        "label": "Themo - Extra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extra.json"
       }
     ]
   }
