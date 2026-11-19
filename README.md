@@ -280,5 +280,3 @@ Hex values for each theme. Translucent backgrounds are listed as their base colo
 ## Feedback
 
 Found a color that looks off, or want to suggest a change? Open an issue or send a pull request at [github.com/holyarsenic/Themo](https://github.com/holyarsenic/Themo).
-
-Enjoy!
